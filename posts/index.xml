@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on AMDev</title>
-    <link>https://amdev.github.io/posts/</link>
+    <link>https://amohammadzadeh.github.io/posts/</link>
     <description>Recent content in Posts on AMDev</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Nov 2024 21:52:37 +0330</lastBuildDate>
-    <atom:link href="https://amdev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://amohammadzadeh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Be Careful What You Control For</title>
-      <link>https://amdev.github.io/posts/be-careful-what-you-control-for/</link>
+      <link>https://amohammadzadeh.github.io/posts/be-careful-what-you-control-for/</link>
       <pubDate>Tue, 19 Nov 2024 21:52:37 +0330</pubDate>
-      <guid>https://amdev.github.io/posts/be-careful-what-you-control-for/</guid>
+      <guid>https://amohammadzadeh.github.io/posts/be-careful-what-you-control-for/</guid>
       <description>&lt;p&gt;What is the effect of online learning on students&amp;rsquo; peformance? Does attending a top-tier university significantly affect future earnings?
 Would a customer still purchase if we hadn’t offered a discount?&lt;/p&gt;
 &lt;p&gt;We often encounter questions like these in our work or research. They aim to uncover the causal effect of a treatment (e.g., online learning, attending a prestigious university, offering a discount) on a particular outcome (e.g., students&amp;rsquo; performance, future earnings, customer purchases). Intuitively, we recognize that answering such questions is challenging—it requires us to observe the same individual in two different scenarios at the same time. For instance, we’d need to know whether the same customer would have purchased if they had not received the discount. This concept is referred to as &lt;strong&gt;potential outcomes&lt;/strong&gt;.&lt;/p&gt;</description>
