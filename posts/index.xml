@@ -6,14 +6,23 @@
     <description>Recent content in Posts on AMDev</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2024 21:52:37 +0330</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 18:32:09 +0330</lastBuildDate>
     <atom:link href="https://amohammadzadeh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the Foundations of A/B Testing</title>
+      <link>https://amohammadzadeh.github.io/posts/learning-ab-testing/</link>
+      <pubDate>Mon, 25 Nov 2024 18:32:09 +0330</pubDate>
+      <guid>https://amohammadzadeh.github.io/posts/learning-ab-testing/</guid>
+      <description>&lt;p&gt;A/B testing is a method for comparing two versions of a product or feature (Control and Treatment) by randomly assigning users to experience one version and analyzing the resulting data to determine which performs better.&lt;/p&gt;
+&lt;p&gt;I decided to solidify what I&amp;rsquo;ve learned by working through a fictional example.&lt;/p&gt;
+&lt;p&gt;The company wants to decide whether it should offer its users a prize for their first purchase of greater than $1,000. Before running the experiment, I should define my Overall Evaluation Criterion (OEC). The OEC is a quantitative measure of the experiment&amp;rsquo;s objective. A good OEC has the following properties:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Be Careful What You Control For</title>
       <link>https://amohammadzadeh.github.io/posts/be-careful-what-you-control-for/</link>
       <pubDate>Tue, 19 Nov 2024 21:52:37 +0330</pubDate>
       <guid>https://amohammadzadeh.github.io/posts/be-careful-what-you-control-for/</guid>
-      <description>&lt;p&gt;What is the effect of online learning on students&amp;rsquo; peformance? Does attending a top-tier university significantly affect future earnings?
+      <description>&lt;p&gt;What is the effect of online learning on students&amp;rsquo; performance? Does attending a top-tier university significantly affect future earnings?
 Would a customer still purchase if we hadn’t offered a discount?&lt;/p&gt;
 &lt;p&gt;We often encounter questions like these in our work or research. They aim to uncover the causal effect of a treatment (e.g., online learning, attending a prestigious university, offering a discount) on a particular outcome (e.g., students&amp;rsquo; performance, future earnings, customer purchases). Intuitively, we recognize that answering such questions is challenging—it requires us to observe the same individual in two different scenarios at the same time. For instance, we’d need to know whether the same customer would have purchased if they had not received the discount. This concept is referred to as &lt;strong&gt;potential outcomes&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>

@@ -57,7 +57,21 @@
 
     </style>
 </noscript>
-<meta property="og:url" content="https://amohammadzadeh.github.io/posts/">
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-T3FF73RDK5"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-T3FF73RDK5');
+        }
+      </script><meta property="og:url" content="https://amohammadzadeh.github.io/posts/">
   <meta property="og:site_name" content="AMDev">
   <meta property="og:title" content="Posts">
   <meta property="og:locale" content="en-us">
@@ -143,11 +157,26 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">Exploring the Foundations of A/B Testing
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>A/B testing is a method for comparing two versions of a product or feature (Control and Treatment) by randomly assigning users to experience one version and analyzing the resulting data to determine which performs better.
+I decided to solidify what I’ve learned by working through a fictional example.
+The company wants to decide whether it should offer its users a prize for their first purchase of greater than $1,000. Before running the experiment, I should define my Overall Evaluation Criterion (OEC). The OEC is a quantitative measure of the experiment’s objective. A good OEC has the following properties:
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-11-25 18:32:09 +0330 +0330'>November 25, 2024</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Ahmad M.</footer>
+  <a class="entry-link" aria-label="post link to Exploring the Foundations of A/B Testing" href="https://amohammadzadeh.github.io/posts/learning-ab-testing/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">Be Careful What You Control For
     </h2>
   </header>
   <div class="entry-content">
-    <p>What is the effect of online learning on students’ peformance? Does attending a top-tier university significantly affect future earnings? Would a customer still purchase if we hadn’t offered a discount?
+    <p>What is the effect of online learning on students’ performance? Does attending a top-tier university significantly affect future earnings? Would a customer still purchase if we hadn’t offered a discount?
 We often encounter questions like these in our work or research. They aim to uncover the causal effect of a treatment (e.g., online learning, attending a prestigious university, offering a discount) on a particular outcome (e.g., students’ performance, future earnings, customer purchases). Intuitively, we recognize that answering such questions is challenging—it requires us to observe the same individual in two different scenarios at the same time. For instance, we’d need to know whether the same customer would have purchased if they had not received the discount. This concept is referred to as potential outcomes.
 ...</p>
   </div>

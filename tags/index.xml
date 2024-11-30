@@ -6,6 +6,28 @@
     <description>Recent content in Tags on AMDev</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 18:32:09 +0330</lastBuildDate>
     <atom:link href="https://amohammadzadeh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A/B Testing</title>
+      <link>https://amohammadzadeh.github.io/tags/a/b-testing/</link>
+      <pubDate>Mon, 25 Nov 2024 18:32:09 +0330</pubDate>
+      <guid>https://amohammadzadeh.github.io/tags/a/b-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experiment Design</title>
+      <link>https://amohammadzadeh.github.io/tags/experiment-design/</link>
+      <pubDate>Mon, 25 Nov 2024 18:32:09 +0330</pubDate>
+      <guid>https://amohammadzadeh.github.io/tags/experiment-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Casual Inference</title>
+      <link>https://amohammadzadeh.github.io/tags/casual-inference/</link>
+      <pubDate>Tue, 19 Nov 2024 21:52:37 +0330</pubDate>
+      <guid>https://amohammadzadeh.github.io/tags/casual-inference/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

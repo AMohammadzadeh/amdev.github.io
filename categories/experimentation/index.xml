@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Experimentation on AMDev</title>
+    <link>https://amohammadzadeh.github.io/categories/experimentation/</link>
+    <description>Recent content in Experimentation on AMDev</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 18:32:09 +0330</lastBuildDate>
+    <atom:link href="https://amohammadzadeh.github.io/categories/experimentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the Foundations of A/B Testing</title>
+      <link>https://amohammadzadeh.github.io/posts/learning-ab-testing/</link>
+      <pubDate>Mon, 25 Nov 2024 18:32:09 +0330</pubDate>
+      <guid>https://amohammadzadeh.github.io/posts/learning-ab-testing/</guid>
+      <description>&lt;p&gt;A/B testing is a method for comparing two versions of a product or feature (Control and Treatment) by randomly assigning users to experience one version and analyzing the resulting data to determine which performs better.&lt;/p&gt;
+&lt;p&gt;I decided to solidify what I&amp;rsquo;ve learned by working through a fictional example.&lt;/p&gt;
+&lt;p&gt;The company wants to decide whether it should offer its users a prize for their first purchase of greater than $1,000. Before running the experiment, I should define my Overall Evaluation Criterion (OEC). The OEC is a quantitative measure of the experiment&amp;rsquo;s objective. A good OEC has the following properties:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
